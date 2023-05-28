@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1641222621 source:d:\telkom university\semester 3\struktur data\tubes\tubes\main.cpp
+	<iostream>
+	"banksampah.h"
+
+1641954280 source:d:\telkom university\semester 3\struktur data\tubes\tubes\banksampah.cpp
+	"banksampah.h"
+
+1641223855 d:\telkom university\semester 3\struktur data\tubes\tubes\banksampah.h
+	<iostream>
+	<string>
+
